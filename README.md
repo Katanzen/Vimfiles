@@ -1,2 +1,2 @@
-# Vimfiles
-### Just my vimrc file to clone where needed.
+** Vimfiles**
+- My vimrc file to clone where needed.
